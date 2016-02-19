@@ -1,0 +1,292 @@
+header{
+	background-color:transparent;
+	position: fixed;
+	width:100%;
+
+}
+.navbar-default{
+background:rgba(255,255,255,0.1);
+position: fixed;
+width: 100%;
+}
+.navbar-header{
+background:;
+}
+.portafolio{
+  width: 825px;
+  margin-top: 10%;
+}
+.header{
+  background: url("../img/header.jpg") no-repeat center center;
+  height: 90vh;
+  color: white;
+  text-align: center;
+  background-size:cover;
+  width:100%;
+}
+.header p{
+color:#EAE9E9;
+margin-bottom:4%;
+background-color:transparent;
+z-index: 1;
+opacity:0.8;
+}
+.header .hi{
+font-size: 40px;
+text-transform:uppercase;
+font-weight:bold;
+margin-top:20%;
+color: white;
+opacity:2;
+}
+.color a{
+  font-size: 14px;
+  color: white;
+  font-weight: 600;
+}
+hr{ 
+   margin: auto;
+   border: 1px solid #DD5D46;
+   width:40px;
+   margin-top:0.2%;
+   margin-bottom:2%;
+}
+.rosi{
+   color:white;
+   background-color:#F05F40;
+   border-radius:30px;
+   margin-top:1%;
+   padding:8px 12px;
+   text-transform:uppercase;
+   font-size:11px;
+}
+
+#works {
+  background-color: #edecec; }
+  #works .work {
+    position: relative; }
+    #works .work img {
+      width: 100%; }
+  #works .overlay {
+    position: absolute;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    padding: 20%; }
+
+.overlay h4,
+.overlay p {
+  visibility: hidden; }
+
+.overlay:hover {
+  background-color: rgba(255,127,80, 0.8); }
+
+.overlay:hover h4,
+.overlay:hover p {
+  visibility: visible; }
+.line{
+   margin:auto;
+   border:1px solid white;
+   margin-top:0.2%;
+}
+.topbar ul{
+  text-decoration: none;
+  list-style:none;
+  font-weight: bold;
+  opacity:0.5;
+}
+
+.topbar ul a{
+  float:right;
+  margin-right:0.8%;
+  margin-top:2%;
+  color:white;
+  text-transform:uppercase;
+  font-size:12px;
+
+}
+
+.miporta ul a{
+
+  list-style: none;
+  color:white;
+  margin-right:30%;
+  text-transform: uppercase;
+  font-size:12px;
+  font-weight:bold;
+  opacity:0.5;
+
+}
+
+.miporta ul li{
+  list-style:none;
+  margin-top:3%;
+
+}
+
+.miporta{
+  padding-right:7%;
+}
+
+.one{
+background-color:#F05F40;
+height:30vh;
+}
+
+.two{
+margin-right:4%;
+margin-bottom: 5%;
+}
+.one p{
+color:rgba(228, 225, 225, 0.64);
+text-align: center;
+margin-top: 2%;
+font-size:15px;
+}
+
+.aboutme{
+font-size:20px;
+color:white;
+text-transform:uppercase;
+text-align: center;
+margin-top:4%;
+}
+
+
+.servicios{
+color:#4A4F66;
+font-size:20px;
+text-transform: uppercase;
+margin-top:5%;
+margin-left:48%;
+}
+
+
+.servline{
+border:1px solid #DD5D46;
+text-align: center;
+margin-left:51%;
+margin-top:0.2%;
+}
+
+.desarrollo{
+font-size:12px;
+width:60%;
+margin-left:20%;
+color:#F7BCA8;
+font-weight: lighter;
+
+}
+
+.box{
+display: inline-block;
+}
+
+.box p{
+font-weight:bold;
+}
+
+.two p{
+color:#655A5A;
+
+}
+
+.icon{
+color:#F05F40;
+font-size:35px;
+margin-bottom:3%;
+}
+
+.img1{
+  width: 100%;
+}
+.sinpadding-margin [class*="col-"] {
+  padding: 0;
+  margin: 0;
+}
+.github{
+  background-color: #222222;
+  padding: 2%;
+  color: white;
+}
+.github h4{
+  padding: 0;
+  margin: 0;
+}
+.git{
+  color: #222222;
+  background-color: white;
+  border-radius:30px;
+  margin-top:1%;
+  padding:6px 15px;
+}
+.second{
+  background-color: #F05F40;
+  height: 3px;
+  width: 3%;
+}
+.listo{
+  padding: 2% 25%;
+}
+.icon{
+  font-size:24px;
+}
+footer h3{
+  margin-top:4%;
+}
+
+@media (max-width:480px){
+.hi{
+text-align: center;
+font-size:30px !important;
+}
+
+.aboutme{
+padding-top:4%;
+}
+.one{
+height:60%;
+}
+.one p{
+font-size:11px;
+padding-bottom:5%;
+}
+.two{
+margin:auto;
+text-align: center !important;
+}
+.servicios{
+margin-left:3%;
+margin-top:10%;
+text-align: center;
+
+}
+.box{
+margin-right:4%;
+margin-left:4%;
+padding-bottom:10%;
+
+}
+.servline{
+margin-left:46%;
+margin-bottom:6%;
+}
+.rosi{
+margin-top:10%!important;
+}
+.second{
+width:12%;
+}
+footer h3{
+margin-top:10%;
+}
+.github h4{
+ padding-top:6%;
+ padding-bottom:6%;
+ width:100%;
+font-size:25px !important;
+}
+.github{
+padding-bottom:10%;
+}
+}

@@ -1,0 +1,571 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"mar",
+				"margin-right"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"pa",
+				"padding-right"
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"fo",
+				"font-weight"
+			],
+			[
+				"PA",
+				"padding-right"
+			],
+			[
+				"p",
+				"padding-left"
+			],
+			[
+				"li",
+				"link	Tag"
+			],
+			[
+				"bacgro",
+				"background-image"
+			],
+			[
+				"mR",
+				"margin-top"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"t",
+				"text-decoration"
+			],
+			[
+				"backgro",
+				"background-image"
+			],
+			[
+				"padding",
+				"padding-left"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"back",
+				"background-origin"
+			],
+			[
+				"paddi",
+				"padding-bottom"
+			],
+			[
+				"paddig-",
+				"padding-right"
+			],
+			[
+				"f",
+				"font-size"
+			],
+			[
+				"paddin",
+				"padding-left"
+			],
+			[
+				"h",
+				"h1	Tag"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"b",
+				"border-image"
+			],
+			[
+				"hero-te",
+				"hero-text-d"
+			],
+			[
+				"i",
+				"inline-block"
+			],
+			[
+				"white",
+				"whitebox2"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"o",
+				"opacity"
+			],
+			[
+				"n",
+				"nav	Tag"
+			],
+			[
+				"I",
+				"inline-block"
+			],
+			[
+				"fot",
+				"font-size"
+			],
+			[
+				"co",
+				"container-fluid"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"margin-",
+				"margin-left"
+			],
+			[
+				"ima",
+				"background-image"
+			],
+			[
+				"border",
+				"border-radius"
+			],
+			[
+				"se",
+				"section	Tag"
+			],
+			[
+				"hea",
+				"header	Tag"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"st",
+				"strong	Tag"
+			],
+			[
+				"s",
+				"strong	Tag"
+			],
+			[
+				"inline",
+				"inline-block"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "/C/Users/user/Desktop/LABORATORIA/PORTFOLIO/PORTFOLIO-master/index.html",
+			"settings":
+			{
+				"buffer_size": 4567,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "creative.css",
+			"settings":
+			{
+				"buffer_size": 2074,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "bootstrap.css",
+			"settings":
+			{
+				"buffer_size": 146119,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "bootstrap.min.css",
+			"settings":
+			{
+				"buffer_size": 121260,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/C/Users/user/Desktop/LABORATORIA/PORTFOLIO/PORTFOLIO-master/font-awesome/less/icons.less",
+			"settings":
+			{
+				"buffer_size": 37290,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"selected_items":
+		[
+		],
+		"width": 392.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/user/Desktop/LABORATORIA/PRIMES THEMES/PRIMES THEME PROYECT/css/common.css",
+		"/C/Users/user/Desktop/LABORATORIA/PRIMES THEMES/PRIMES THEME PROYECT/index.html",
+		"/C/Users/user/Desktop/LABORATORIA/HACKATON/css/common.css",
+		"/C/Users/user/Desktop/LABORATORIA/HACKATON/css/utilities.css",
+		"/C/Users/user/Desktop/LABORATORIA/HACKATON/index.html",
+		"/C/Users/user/Desktop/LABORATORIA/HACKATON/css/main.css",
+		"/C/Users/user/AppData/Roaming/Sublime Text 2/Packages/User/flex.py",
+		"/C/Users/user/Desktop/LABORATORIA/HACKATON/css/bootstrap.css",
+		"/C/Users/user/Desktop/LABORATORIA/HACKATON/img/12661785_10153361206798193_1907504185974226368_n.jpg",
+		"/C/Users/user/Desktop/LABORATORIA/ESCUELA DE DANZA/css/clases.css",
+		"/C/Users/user/Desktop/LABORATORIA/ESCUELA DE DANZA/clases.html",
+		"/C/Users/user/Desktop/LABORATORIA/ESCUELA DE DANZA/css/blog.css",
+		"/C/Users/user/Desktop/LABORATORIA/ESCUELA DE DANZA/blog.html",
+		"/C/Users/user/Desktop/LABORATORIA/ESCUELA DE DANZA/css/main.css",
+		"/C/Users/user/Desktop/LABORATORIA/ESCUELA DE DANZA/nosotros.html",
+		"/C/Users/user/Desktop/LABORATORIA/ESCUELA DE DANZA/css/nosotros.css",
+		"/C/Users/user/Desktop/LABORATORIA/ESCUELA DE DANZA/index.html",
+		"/C/Users/user/Desktop/LABORATORIA/ESCUELA DE DANZA/css/utilities.css",
+		"/C/Users/user/Desktop/LABORATORIA/CINEMA LAYOUT/css/style.css",
+		"/C/Users/user/Desktop/LABORATORIA/CINEMA LAYOUT/index.html",
+		"/C/Users/user/Desktop/LABORATORIA/PRETTIFY/images/linkedin.png",
+		"/C/Users/user/Desktop/LABORATORIA/PRETTIFY/images/background1.jpg",
+		"/C/Users/user/Desktop/LABORATORIA/CINEMA LAYOUT/img/aventura.jpg",
+		"/C/Users/user/Desktop/LABORATORIA/GRID SYSTEM/img/thumbs/after-dark.jpg",
+		"/C/Users/user/Desktop/LABORATORIA/GRID SYSTEM/img/icons/pencil.png",
+		"/C/Users/user/Desktop/LABORATORIA/GRID SYSTEM/css/grid-system.css",
+		"/C/Users/user/Desktop/LABORATORIA/LAYOUT/img/p5.jpg",
+		"/C/Users/user/Desktop/LABORATORIA/LAYOUT/img/profile-3.png",
+		"/C/Users/user/Desktop/LABORATORIA/LAYOUT/index1.html",
+		"/C/Users/user/Desktop/LABORATORIA/LAYOUT/main.css",
+		"/C/Users/user/Desktop/LABORATORIA/LAYOUT/index2.html",
+		"/C/Users/user/Desktop/LABORATORIA/LAYOUT/main1.css",
+		"/C/Users/user/Desktop/LABORATORIA/LAYOUT/primer-layout.pdf",
+		"/C/Users/user/Desktop/LABORATORIA/8 CAJAS/index.html"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			";\n",
+			"70",
+			";\n",
+			"\n",
+			"%;\n",
+			"\n",
+			"700px",
+			"660px",
+			"180px",
+			"90px",
+			"100px",
+			"16px",
+			"70px",
+			"50px",
+			"300px"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "/C/Users/user/Desktop/LABORATORIA/PORTFOLIO/PORTFOLIO-master/index.html",
+					"settings":
+					{
+						"buffer_size": 4567,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								3028,
+								3028
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 1423.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 1,
+					"file": "creative.css",
+					"settings":
+					{
+						"buffer_size": 2074,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								2027,
+								2027
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 2011.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "bootstrap.css",
+					"settings":
+					{
+						"buffer_size": 146119,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								141637,
+								141637
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 97670.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "bootstrap.min.css",
+					"settings":
+					{
+						"buffer_size": 121260,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								121260,
+								121260
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage"
+						},
+						"translation.x": 315.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "/C/Users/user/Desktop/LABORATORIA/PORTFOLIO/PORTFOLIO-master/font-awesome/less/icons.less",
+					"settings":
+					{
+						"buffer_size": 37290,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								6425,
+								6425
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 1319.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.515676331165,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"icon",
+				"PORTFOLIO-master/font-awesome/less/icons.less"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 208.0,
+	"status_bar_visible": true
+}
